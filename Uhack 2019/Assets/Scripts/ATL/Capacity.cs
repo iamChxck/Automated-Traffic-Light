@@ -1,0 +1,3 @@
+﻿public class Capacity : TrafficMatrix
+{
+}
